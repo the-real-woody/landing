@@ -1,0 +1,17 @@
+.banner {
+  background-image: url(../../images/I0000J4TGsukSN2I.jpg);
+  background-size: cover;
+  background-position: center;
+  padding: 200px 0;
+  position: relative;
+  height: 100%;
+  border-bottom: 2px solid #13293D;
+}
+
+.banner .container {
+    width: 900px;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+}
+

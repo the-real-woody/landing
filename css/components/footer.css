@@ -1,0 +1,23 @@
+.footer {
+  width: 900px;
+  margin: 50px auto;
+  display: flex;
+  justify-content: space-around;
+}
+
+.social {
+  font-size: 30px;
+}
+
+.social a {
+  margin: 0px 10px;
+}
+
+.social i {
+  color: #BF1363;
+  transition: 0.2s ease;
+}
+
+.social i:hover {
+  transform: scale(1.2);
+}
